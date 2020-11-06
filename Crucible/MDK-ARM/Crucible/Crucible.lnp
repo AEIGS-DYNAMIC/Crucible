@@ -11,6 +11,8 @@
 "crucible\usart.o"
 "crucible\stm32f1xx_it.o"
 "crucible\stm32f1xx_hal_msp.o"
+"crucible\lcg_functions.o"
+"crucible\zbw_functions.o"
 "crucible\vl53l0x.o"
 "crucible\vl53l0x_i2c.o"
 "crucible\vl53l0x_it.o"

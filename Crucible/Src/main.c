@@ -32,6 +32,8 @@
 #include "motor.h"
 #include "ps2.h"
 #include "other_functions.h"
+#include "lcg_functions.h"
+#include "zbw_functions.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/

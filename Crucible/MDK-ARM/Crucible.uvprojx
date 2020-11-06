@@ -447,6 +447,16 @@
               <FileType>1</FileType>
               <FilePath>../Src/stm32f1xx_hal_msp.c</FilePath>
             </File>
+            <File>
+              <FileName>lcg_functions.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Src\lcg_functions.c</FilePath>
+            </File>
+            <File>
+              <FileName>zbw_functions.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Src\zbw_functions.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

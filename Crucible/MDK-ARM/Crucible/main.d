@@ -45,3 +45,10 @@ crucible\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 crucible\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 crucible\main.o: ../Inc/vl53l0x.h
 crucible\main.o: ../Inc/vl53l0x_it.h
+crucible\main.o: ../Inc/motor_B.h
+crucible\main.o: ../Inc/motor_D.h
+crucible\main.o: ../Inc/motor.h
+crucible\main.o: ../Inc/ps2.h
+crucible\main.o: ../Inc/other_functions.h
+crucible\main.o: ../Inc/lcg_functions.h
+crucible\main.o: ../Inc/zbw_functions.h
